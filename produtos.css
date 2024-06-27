@@ -1,10 +1,10 @@
 header {
-  background: #B0C4DE	;
+  background: #836FFF	;
   padding:20px 0;
 }
 
 .caixa {
-  width: 900px;
+  width: 800px;
   position: relative;
   margin: 0 auto;
 }
@@ -29,12 +29,12 @@ nav a{
 }
 
 nav a:hover{
-   color: #0000CD;
+   color: #191970	;
    text-decoration: underline;
 }
 
 .produtos{
-  width: 940px;
+  width: 980px;
   margin: 0 auto;
   padding: 50px;
 }
@@ -67,7 +67,7 @@ nav a:hover{
 }
 
 .produtos li:hover{
-border-color: #0000ff;
+border-color: #6A5ACD;
 }
 
 .produtos li:hover h2{
@@ -75,7 +75,7 @@ font-size: 34px;
 }
 
 .produtos li:active{
-  border-color: #6495ed;
+  border-color: #483D8B;
 }
 
 footer{
@@ -85,14 +85,14 @@ footer{
 }
 
 .copyright{
- color: #ffffff;
+ color: #777777;
  font-size: 13px;
- margin-top: 20px;
+ margin-top: 100px;
 }
 
 main{
   width: 940px;
- margin: 0 auto;
+  margin: 0 auto;
 }
 
 form{
@@ -119,7 +119,7 @@ form label, form legend{
 .enviar{
   width: 40%;
   padding: 15px 0;
-  background: #add8e6;
+  background: #836FFF;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -130,7 +130,7 @@ form label, form legend{
 }
 
 .enviar:hover{
-  background: #1e90ff;
+  background: #483D8B;
   transform: scale(1.1);
 }
 table{
@@ -159,11 +159,15 @@ th, td{
 
 }
 
-.utensilios{
-  width: 120px;
-  margin: 0 20 px 20px 0;
+.empresa{
+  width: 300px;
+  margin-left: 4 70px 70px 470px;
 }
 
 #contato{
   height: 200px;
 }
+.entao{
+  width: 100px;
+}
+
