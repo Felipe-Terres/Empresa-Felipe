@@ -1,6 +1,6 @@
 .titulo-principal{
  padding-left: 30px; 
- color: ##29088A;
+ color: #29088A;
 text-align: center;
 }
 
@@ -59,4 +59,30 @@ footer{
 .entao{
   width: 100px;
   
+}
+li{
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 10px 1.5%;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  border-radius: 10px;}
+
+
+
+nav a{
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+
+nav a:hover{
+   color: #191970	;
+   text-decoration: underline;
 }
