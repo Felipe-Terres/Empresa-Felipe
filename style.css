@@ -49,3 +49,14 @@ ul {
 img id{
 text-align:left; 
 }
+
+footer{
+  text-align: center;
+  background: url(bg.jpg);
+  padding: 40px 0;
+}
+
+.entao{
+  width: 100px;
+  
+}
